@@ -17,7 +17,7 @@ title: Crescent Equity Partners
 email: info<code>&#64;</code>crescentequity.com
 description: >- # this means to ignore newlines until "baseurl:"
   Crescent Equity Partners is a private investment company based in New York.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "crescentequity.com" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
