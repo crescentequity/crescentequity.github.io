@@ -16,7 +16,9 @@
 title: Crescent Equity
 email: info&#64;crescentequity.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Crescent Equity is a private investment company based in New York.
+  Crescent Equity is an alternative investment firm managed by Albert Blanchard that deploys long/short, 
+  special situation, and systematic investing strategies, complemented by a growing portfolio of real estate 
+  and other private market investments.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
